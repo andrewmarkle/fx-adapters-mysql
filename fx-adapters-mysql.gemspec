@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "mysql2"
   spec.add_development_dependency "standard"
 
-  spec.add_dependency "fx", "~> 0.6.2 "
+  spec.add_dependency "fx", ">=0.6.2"
 end
